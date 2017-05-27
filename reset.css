@@ -70,11 +70,11 @@ tr,
 ul,
 var,
 video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font: inherit;
-  vertical-align: baseline;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   font: inherit;
+   vertical-align: baseline;
 }
 article,
 aside,
@@ -86,27 +86,27 @@ header,
 menu,
 nav,
 section {
-  display: block;
+   display: block;
 }
 body {
-  line-height: 1;
-  font-family: sans-serif;
+   line-height: 1;
+   font-family: sans-serif;
 }
 ol,
 ul {
-  list-style: none;
+   list-style: none;
 }
 blockquote,
 q {
-  quotes: none;
+   quotes: none;
 }
 blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-  content: none;
+   content: none;
 }
 table {
-  border-collapse: collapse;
-  border-spacing: 0;
+   border-collapse: collapse;
+   border-spacing: 0;
 }
