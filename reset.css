@@ -89,14 +89,17 @@ nav,
 section {
    display: block;
 }
+
 body {
    font-family: sans-serif;
    line-height: 1;
 }
+
 ol,
 ul {
    list-style: none;
 }
+
 blockquote,
 q {
    quotes: none;
@@ -107,6 +110,7 @@ q:before,
 q:after {
    content: none;
 }
+
 table {
    border-collapse: collapse;
    border-spacing: 0;
