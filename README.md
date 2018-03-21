@@ -1,3 +1,3 @@
 # Reset CSS
 
-This is a slightly-revised version of Eric Meyer’s [Reset CSS](http://meyerweb.com/eric/tools/css/reset/). It’s indented by 3 spaces and configured to pass [`sass-lint`](https://github.com/sasstools/sass-lint) .
+This repo contains a slightly-revised version of Eric Meyer’s [Reset CSS](http://meyerweb.com/eric/tools/css/reset/), both as a CSS document (`reset.css`) and as a Sass partial (`_reset.scss`). Both are indented by 3 spaces.
